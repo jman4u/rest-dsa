@@ -8,3 +8,6 @@ project and used Heroku to deploy both the web and mongo docker images while mai
 
 A simple get request using postman on the app link yields the following results:
 
+![Screen Shot 2021-09-07 at 10 25 19 PM](https://user-images.githubusercontent.com/67943741/132437339-68c6f43d-c469-4beb-a8e0-2fe3c9d611cd.png)
+
+Link to web app: https://rest-dsa.herokuapp.com/posts
